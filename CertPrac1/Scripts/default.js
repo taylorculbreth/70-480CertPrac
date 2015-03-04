@@ -38,7 +38,7 @@ function getTime() {
 }
 function hideMessageContentAsync() {
     var promise = $('#messageContent').slideUp(milliseconds, opacity).promise();
-    promise.done(function () { $('#messageBox').hide(); });
+    promise.done(function () { $('#messageBox').hide(); }); 
     return promise;
 }
 function hideCoverAsync() {
