@@ -10,6 +10,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		defaulthtml.html = defaulthtml.html
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleWebCalculator", "SimpleWebCalculator\SimpleWebCalculator.csproj", "{F532DEAF-08F2-4FE4-A87F-E255ECB578BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,10 @@ Global
 		{63D4170E-30CE-4192-84DD-270BACB42C3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63D4170E-30CE-4192-84DD-270BACB42C3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63D4170E-30CE-4192-84DD-270BACB42C3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F532DEAF-08F2-4FE4-A87F-E255ECB578BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F532DEAF-08F2-4FE4-A87F-E255ECB578BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F532DEAF-08F2-4FE4-A87F-E255ECB578BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F532DEAF-08F2-4FE4-A87F-E255ECB578BB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
